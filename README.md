@@ -24,4 +24,4 @@ The project aims to simplify the customer shopping experience by integrating RFI
 
 📃 License
 
-This project is for educational purposes only. Please give credit when reusing or referencing.
+This project is for educational purposes only.
